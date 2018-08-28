@@ -1,6 +1,6 @@
 # basic-ML-programming-project
 
-This is a code snippet for a small ML project.
+This is a code snippet I wrote for a small ML project.
 
 Our objective is to create a simple machine learning algorithm based on policy and value iteration.
 The given problem is to find a path to navigate a 2D grid-maze with empty tiles, hazards, and walls
